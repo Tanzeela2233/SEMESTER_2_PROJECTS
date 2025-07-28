@@ -1,5 +1,6 @@
 # SEMESTER_2_PROJECTS
 # COURSES
+
 Oriented programming
 Oriented Programming lab
 Discrete structures
